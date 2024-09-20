@@ -1,0 +1,1 @@
+Image Search App - The Image Search App allows users to search for images online. It is built using HTML, CSS, and JavaScript, providing a user-friendly interface to display search results in a grid layout. This project demonstrates the ability to fetch and display images dynamically based on user input.
